@@ -1,3 +1,9 @@
+分支原因Windows7不吃這種新語法，原作者寫法支援Windows8以上
+修正僅支援Windows7，不支援WinXP
+
+原作者
+https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner
+
 This is for adding the awsome Yara pattern scanner to windows right click menus.
 
 What it Does
